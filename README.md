@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Gamemaker 2
 - 📫 How to reach me My discord is venteoxd_wawits
-- 😄 Pronouns: funny, helpful, good firend
+- 😄 Pronouns: funny, helpful, good friend
 - ⚡ Fun fact: I'm from Poland
 
 <!---
