@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VentoGITHUB
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Gamemaker 2
+- 🌱 I’m currently learning LÖVE2D
 - 📫 How to reach me My discord is venteoxd_wawits
 - 😄 Pronouns: funny, helpful, good friend
 - ⚡ Fun fact: I'm from Poland
