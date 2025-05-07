@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @VentoGITHUB
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning LÖVE2D
-- 📫 How to reach me My discord is venteoxd_wawits
-- 😄 Pronouns: funny, helpful, good friend
-- ⚡ Fun fact: I'm from Poland
+Yea I have one braincell that wants nothing other than me to suffer, and it's epic
 
 <!---
 VentoGITHUB/VentoGITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
